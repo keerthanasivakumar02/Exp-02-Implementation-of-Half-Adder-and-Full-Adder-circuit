@@ -86,3 +86,5 @@ RegisterNumber: 23010209
 
 
 ### Result:
+
+Thus the given full adder and half adder are verified using verilog programming.
